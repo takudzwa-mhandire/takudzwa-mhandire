@@ -1,10 +1,10 @@
 # Hi 👋 I'm Takudzwa Mhandire
 
-## Cloud Data Engineer | Microsoft Azure | Microsoft Fabric
+## Cloud Data Engineering | Microsoft Azure | Microsoft Fabric
 
 Welcome to my GitHub portfolio.
 
-I am a technology professional transitioning into Cloud Data Engineering with Microsoft certifications in Azure, Microsoft Fabric, Power BI, and Artificial Intelligence. My focus is on designing scalable ETL pipelines, cloud-based analytics solutions, and modern data platforms using Microsoft Azure technologies.
+I am passionate about building modern data solutions using Microsoft Azure and Microsoft Fabric. This portfolio showcases my learning journey, certifications, and practical projects focused on ETL pipelines, data transformation, analytics, and cloud-based data engineering.
 
 ---
 
